@@ -10,7 +10,7 @@ const Home = ({products, bannerData}) => {
       <div className='products-heading'> 
         {/* Best Selling Prodects Section Begin */}
         <h2>Best Selling Products</h2>
-        <p>Various Gadgets</p>
+        <p>Available While Supplies Last</p>
       </div>
 
       {/* Loop over Products */}

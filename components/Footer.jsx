@@ -3,7 +3,7 @@ import { AiFillInstagram, AiOutlineTwitter, AiFillFacebook } from 'react-icons/a
 const Footer = () => {
   return (
     <div className='footer-container'>
-      <p>2022 JSM Headphones All rights reserved</p>
+      <p>2022 Ecommerce Delight rights reserved</p>
       <p className='icons'>
         <AiFillFacebook />
         <AiFillInstagram />
